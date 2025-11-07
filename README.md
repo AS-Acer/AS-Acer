@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-acer&label=Profile%20views&color=0e75b6&style=flat" alt="as-acer" /> </p>
 
-- 🔭 I’m currently working on [Javascript](https://github.com/AS-Acer/Javascript-SDC.git)
+- 🔭 I’m currently working on [React Native](https://github.com/SiorreTech)
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📫 How to reach me **acerahmetsaid@gmail.com**
 
