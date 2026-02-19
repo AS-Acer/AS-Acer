@@ -1,26 +1,67 @@
 <h1 align="center">Hi 👋, I'm Ahmet Said Acer</h1>
-<h3 align="center">I'm trying to write code</h3>
+<h3 align="center">Mobile App Developer | React Native Enthusiast | Building Real Products</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=as-acer&label=Profile%20views&color=0e75b6&style=flat" alt="as-acer" /> </p>
-
-- 🔭 I’m currently working on [React Native](https://github.com/SiorreTech)
-
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 📫 How to reach me **acerahmetsaid@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MrMrhappyporter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asacer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmet said acer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet said acer" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/as-acer">
+    <img src="https://komarev.com/ghpvc/?username=as-acer&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=as-acer&show_icons=true&locale=en&layout=compact" alt="as-acer" /></p>
+### 🚀 About Me
 
+- 📱 Focused on **Mobile App Development**
+- ⚛️ Building cross-platform apps with **React Native & Expo**
+- 🔥 Interested in **UI/UX, Performance Optimization & App Architecture**
+- 🧠 Always learning and shipping real-world projects
+- 💡 Turning ideas into scalable mobile products
 
+---
 
+### 🛠 Tech Stack
 
-![snake gif](https://github.com/AS-Acer/AS-Acer/blob/output/github-contribution-grid-snake.gif)
+<p align="left">
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+</a>
+<a href="https://expo.dev/" target="_blank">
+<img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.apple.com/xcode/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/xcode-1.svg" width="40" height="40"/>
+</a>
+<a href="https://developer.android.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=as-acer&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=as-acer&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+- 📫 Email: **acerahmetsaid@gmail.com**
+- 🐦 Twitter: https://twitter.com/MrMrhappyporter
+- 💼 LinkedIn: https://linkedin.com/in/ahmet-said-acer
+
+---
+
+⭐ Always open to collaboration and building impactful mobile apps.
