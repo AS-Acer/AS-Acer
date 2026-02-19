@@ -29,33 +29,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub (Stable Badges)
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=as-acer&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=as-acer&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://img.shields.io/badge/GitHub-as--acer-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/as-acer?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/as-acer?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 ---
 
 ### 🌍 Connect With Me
 <p align="left">
-  <a href="mailto:acerahmetsaid@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Email" />
+  <a href="mailto:acerahmetsaid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-acerahmetsaid%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/MrMrhappyporter" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" alt="X" />
+  <br/>
+  <a href="https://twitter.com/MrMrhappyporter">
+    <img src="https://img.shields.io/badge/X-@MrMrhappyporter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ahmet-said-acer" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
+  <br/>
+  <a href="https://linkedin.com/in/ahmet-said-acer">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Said%20Acer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
